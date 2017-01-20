@@ -1,0 +1,19 @@
+{
+  "kind": "reseller#customer",
+  "customerId": "1234567",
+  "customerDomain": "goog-test.gs-skuid.com.tpay2.com",
+  "postalAddress": {
+    "kind": "customers#address",
+    "contactName": "gmo",
+    "organizationName": "gmo",
+    "locality": "Hyderabad",
+    "region": "TS",
+    "postalCode": "500011",
+    "countryCode": "IN",
+    "addressLine1": "street 1"
+  },
+  "phoneNumber": "+91-900 077 9923",
+  "alternateEmail": "ravik@computenext.com",
+  "resourceUiUrl": "http://localhost",
+  "customerDomainVerified": false
+}

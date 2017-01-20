@@ -1,0 +1,11 @@
+{  
+   "resource":{  
+      "type":"saas"
+   },
+   "parameters":{  
+      "name":"Email Security Gateway",
+      "license":1,
+      "domain":"sample.com",
+	  "status":""
+   }
+}

@@ -1,0 +1,22 @@
+{
+  "result": {
+    "providerresponse": {
+      "users": [
+        {
+          "userid": "105322736546465748083",
+          "customerid": "C01y8xij6",
+          "profile": {
+            "default_address": {
+              "email": "sai@goog-test.gs-skuid.com.sai.com"
+            },
+            "first_name": "John",
+            "last_name": "Doe"
+          }
+        }
+      ],
+      "respcode": 200
+    },
+    "success": true,
+    "message": "User details retrieved successfully"
+  }
+}
