@@ -1,0 +1,16 @@
+default:
+  port: 8081
+  userServicePort: 8000
+  useDependencies: false
+  stdTTLInSec: (30 * 60)
+  checkperiodInSec: (2 * 60)
+  host: www.googleapis.com
+development:
+  traceLevel: debug
+  planExpireTimeInMinutes: 5
+  # to skip authorization for testing set skipAuthorization to true
+  skipAuthorization: false
+production:
+  traceLevel: info
+  planExpireTimeInMinutes: 5
+

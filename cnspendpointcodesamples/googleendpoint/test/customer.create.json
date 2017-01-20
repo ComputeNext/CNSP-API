@@ -1,0 +1,21 @@
+{
+  "kind": "reseller#customer",
+  "customerId": "ravi0957",
+  "customerDomain": "ravi0957",
+  "postalAddress": {
+    "kind": "customers#address",
+    "contactName": "ravi",
+    "organizationName": "cnext",
+    "locality": "hyd",
+    "region": "TS",
+    "postalCode": "502270",
+    "countryCode": "IN",
+    "addressLine1": "street 1",
+    "addressLine2": "street 2",
+    "addressLine3": "street 3"
+  },
+  "phoneNumber": "9000779923",
+  "alternateEmail": "ravik@computenext.com",
+  "resourceUiUrl": "",
+  "customerDomainVerified": true
+}

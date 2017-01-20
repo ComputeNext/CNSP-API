@@ -1,0 +1,22 @@
+{
+	"first_name": "Srikanth",
+	"last_name": "M",
+	"email": "srikanth@example1.com",
+	"name_prefix": "Mr",
+	"name_suffix": "",
+	"employee_number": "122122",
+	"language_preference": "EN_US",
+	"work_phone": "111-111-1111",
+	"mobile_phone": "111-111-1112",
+	"home_phone": "111-111-1113",
+	"fax": "111-111-1114",
+	"job_title": "Director",
+	"webSite_address": "www.computenext.com",
+	"time_zone": "America/Central",
+	"RoleSet": [
+		"User"
+	],
+	"requestor":{
+	    "accountid":"20752615"
+	}
+}

@@ -1,0 +1,21 @@
+{
+  "requestId" : "e116d7a9-ed47-4aaf-b61e-35e487ee2cb7",
+  "action" : "create",
+  "resource" : {
+	"type" : "saas",
+	"CNId" : "",
+	"url" : ""
+  },
+  "parameters" : {
+	"name" : "",
+	"license" :2,
+	"domain" : "",
+	"durationunits": "YEARS",
+    "durationlength": 1,
+    "partnumber": "D1H5LLL"					
+  },
+  "requestor" : {
+	"accountId" : "20752615",
+	"userid":""  
+  }
+}

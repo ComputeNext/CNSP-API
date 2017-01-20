@@ -1,0 +1,8 @@
+{
+  "kind": "admin#directory#user",
+  "name": {
+    "givenName": "Ravi",
+    "familyName": "Yadav",
+    "fullName": "Ravi Kumar Yadav"
+  }
+}

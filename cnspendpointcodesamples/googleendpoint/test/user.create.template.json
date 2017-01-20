@@ -1,0 +1,13 @@
+{
+  "kind": "admin#directory#user",
+  "primaryEmail": "admin@goog-test.gmo1.gs-skuid.com",
+  "name": {
+    "givenName": "Ravi",
+    "familyName": "Yadav",
+    "fullName": "Ravi Kumar Yadav"
+  },
+  "isAdmin": true,
+  "password":"cnext@1234",
+  "isDelegatedAdmin": true,
+  "changePasswordAtNextLogin": true
+}

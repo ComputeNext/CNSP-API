@@ -1,0 +1,14 @@
+{
+  "kind": "reseller#subscription",
+  "customerId": "goog-test.gmo1.gs-skuid.com",
+  "skuId": "Google-Apps-For-Business",
+  "billingMethod": "OFFLINE",
+  "plan": {
+    "planName": "ANNUAL_MONTHLY_PAY"
+  },
+  "seats": {
+    "kind": "subscriptions#seats",
+    "numberOfSeats": 1
+  },
+  "purchaseOrderId": "gmo.com_annual_1"
+}

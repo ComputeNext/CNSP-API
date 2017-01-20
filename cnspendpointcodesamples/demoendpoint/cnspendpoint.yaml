@@ -1,0 +1,12 @@
+default:
+  port: 8081
+  userServicePort: 8000
+development:
+  traceLevel: debug
+  planExpireTimeInMinutes: 5
+  # to skip authorization for testing set skipAuthorization to true
+  skipAuthorization: false
+production:
+  traceLevel: info
+  planExpireTimeInMinutes: 5
+

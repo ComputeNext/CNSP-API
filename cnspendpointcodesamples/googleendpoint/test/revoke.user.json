@@ -1,0 +1,13 @@
+{ 
+	"action":"revoke",
+	"parameters":{
+       "force":false
+	},
+    "instance":{
+      "id":"1246886"
+     },
+    "requestor":{
+       "accountid": "20752615",
+       "userid": "20752617"  
+	}
+}

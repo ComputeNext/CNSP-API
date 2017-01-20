@@ -1,0 +1,18 @@
+{
+  "requestId" : "e116d7a9-ed47-4aaf-b61e-35e487ee2cb7",
+  "action" : "delete",
+  "resource" : {
+	"type" : "saas",
+	"CNId" : "",
+	"url" : ""
+  },
+  "parameters" : {		
+  },
+  "instance":{
+	  "id":"48913"
+  },
+  "requestor" : {
+	"accountId" : "20752349",
+	"userid":""  
+  }
+}

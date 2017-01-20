@@ -1,0 +1,19 @@
+{
+  "requestId" : "e116d7a9-ed47-4aaf-b61e-35e487ee2cb7",
+  "action" : "update.quantity",
+  "resource" : {
+    "type" : "saas",   
+    "CNId" : "",
+    "url" : ""
+  },
+  "instance" : {
+    "id" : "48912"
+  },
+  "parameters" : {
+    "license" : 1
+  },
+  "requestor" : {	
+    "accountid" : "20752349",
+    "userid":""  
+  }
+}

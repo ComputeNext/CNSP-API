@@ -1,0 +1,5 @@
+{
+  "kind": "subscriptions#seats",
+  "numberOfSeats": 3,
+  "maximumNumberOfSeats": 10
+}
