@@ -1,0 +1,47 @@
+{
+   "result":{
+   		"success":true,
+      "message":"Accounts retrieved successfully",
+      "providerresponse": {
+        "respcode" :200,        
+        "accounts":[
+          {
+            "accountid": "123456789",
+            "domainName": "test.com",
+            "profile": {
+                "first_name": "firstName",
+                "last_name": "lastName",
+                "email": "Email",
+                "company_name": "company",
+                "default_address": {
+                    "address_line1": "address1",
+                    "city": "city",
+                    "region": "region",
+                    "postal_code": "postal",
+                    "country": "country",
+                    "phone_number": "231321312"
+                }
+    }
+    },
+    {
+                "accountid": "87347885",
+                "domainName": "test.com",
+                "profile": {
+                    "first_name": "firstName",
+                    "last_name": "lastName",
+                    "email": "Email",
+                    "company_name": "company",
+                    "default_address": {
+                        "address_line1": "address1",
+                        "city": "city",
+                        "region": "region",
+                        "postal_code": "postal",
+                        "country": "country",
+                        "phone_number": "231321312"
+                    }
+            }
+    }
+    ]
+      }
+}
+}

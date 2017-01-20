@@ -1,0 +1,34 @@
+{ 
+    "result":{ 
+    "success":true,
+      "message":"Resources retrieved successfully",
+        "providerresponse":{ 
+            "respcode":200,
+            "resources":[ 
+                { 
+                    "resource":{ 
+                        "type":"SAAS"
+                    },
+                    "parameters":{ 
+                        "name":"Email Security Gateway",
+                        "license":1,
+                        "domain":"sample.com",
+                        "accountId":1
+                    }
+                },
+                { 
+                    "resource":{ 
+                        "type":"SAAS"
+                    },
+                    "parameters":{ 
+                        "name":"Email Security Gateway",
+                        "license":1,
+                        "domain":"sample.com",
+                        "accountId":1
+                    }
+                }
+            ],
+            "success":true
+        }
+    }
+}

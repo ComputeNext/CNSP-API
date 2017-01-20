@@ -1,0 +1,20 @@
+{
+   "users":[
+      {
+         "username":"user1",
+         "password":"gmo@ibm"
+      },
+      {
+         "username":"user2",
+         "password":"gmo@ibm"
+      },
+      {
+         "username":"ibm",
+         "password":"gmo@ibm"
+      },
+	  {
+		"username":"vendortest",
+		"password":"testPassword"
+	  }
+   ]
+}
