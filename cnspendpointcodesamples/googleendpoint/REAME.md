@@ -42,6 +42,7 @@ This API requires username:password in base64 encoded format in Authorization he
 (The username and password should be in the following file - /cnspendpointcodesamples/googleendpoint/endpointusers.json
 For making the API call, take username:password from the above file and covert this string to base64 encoded)
 Ex : Basic <username:password in base64 encoded>
+
  
 ##Instructions
  
